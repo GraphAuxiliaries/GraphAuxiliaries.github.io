@@ -1,0 +1,274 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "title": "Following",
+      "year": 1998,
+      "date_published": { "year": "2000", "month": "08", "day": "25" },
+      "duration": "69",
+      "director": ["Christopher Nolan"],
+      "avg_vote": "7.5",
+      "votes": "84550",
+      "budget": "6000",
+      "id": 33306
+    },
+    {
+      "title": "Memento",
+      "year": 2000,
+      "date_published": { "year": "2001", "month": "01", "day": "19" },
+      "duration": "113",
+      "director": ["Christopher Nolan"],
+      "avg_vote": "8.4",
+      "votes": "1098879",
+      "budget": "9000000",
+      "id": 36475
+    },
+    {
+      "title": "Insomnia",
+      "year": 2002,
+      "date_published": { "year": "2002", "month": "11", "day": "08" },
+      "duration": "118",
+      "director": ["Christopher Nolan"],
+      "avg_vote": "7.2",
+      "votes": "269304",
+      "budget": "46000000",
+      "id": 39779
+    },
+    {
+      "title": "Batman Begins",
+      "year": 2005,
+      "date_published": { "year": "2005", "month": "06", "day": "17" },
+      "duration": "140",
+      "director": ["Christopher Nolan"],
+      "avg_vote": "8.2",
+      "votes": "1278075",
+      "budget": "150000000",
+      "id": 43935
+    },
+    {
+      "title": "Il cavaliere oscuro",
+      "year": 2008,
+      "date_published": { "year": "2008", "month": "07", "day": "23" },
+      "duration": "152",
+      "director": ["Christopher Nolan"],
+      "avg_vote": "9.0",
+      "votes": "2241615",
+      "budget": "185000000",
+      "id": 48078
+    },
+    {
+      "title": "The Prestige",
+      "year": 2006,
+      "date_published": { "year": "2006", "month": "12", "day": "22" },
+      "duration": "130",
+      "director": ["Christopher Nolan"],
+      "avg_vote": "8.5",
+      "votes": "1155723",
+      "budget": "40000000",
+      "id": 48754
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "date_published": { "year": "2014", "month": "11", "day": "06" },
+      "duration": "169",
+      "director": ["Christopher Nolan"],
+      "avg_vote": "8.6",
+      "votes": "1449256",
+      "budget": "165000000",
+      "id": 50294
+    },
+    {
+      "title": "Il cavaliere oscuro - Il ritorno",
+      "year": 2012,
+      "date_published": { "year": "2012", "month": "08", "day": "29" },
+      "duration": "164",
+      "director": ["Christopher Nolan"],
+      "avg_vote": "8.4",
+      "votes": "1480582",
+      "budget": "250000000",
+      "id": 57234
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "date_published": { "year": "2010", "month": "09", "day": "24" },
+      "duration": "148",
+      "director": ["Christopher Nolan"],
+      "avg_vote": "8.8",
+      "votes": "2002816",
+      "budget": "160000000",
+      "id": 57475
+    },
+    {
+      "title": "Dunkirk",
+      "year": 2017,
+      "date_published": { "year": "2017", "month": "08", "day": "31" },
+      "duration": "106",
+      "director": ["Christopher Nolan"],
+      "avg_vote": "7.9",
+      "votes": "531422",
+      "budget": "100000000",
+      "id": 76459
+    },
+    {
+      "title": "Tenet",
+      "year": 2020,
+      "date_published": { "year": "2020", "month": "08", "day": "26" },
+      "duration": "150",
+      "director": ["Christopher Nolan"],
+      "avg_vote": "7.9",
+      "votes": "60922",
+      "budget": "205000000",
+      "id": 81088
+    }
+  ],
+  "links": [
+    {
+      "avg_vote_diff": 0.9000000000000004,
+      "votes_diff": 1014329.0,
+      "duration_diff": 44.0,
+      "budget_diff": 8994000.0,
+      "date_diff": -147,
+      "source": 33306,
+      "target": 36475
+    },
+    {
+      "avg_vote_diff": 0.2999999999999998,
+      "votes_diff": 184754.0,
+      "duration_diff": 49.0,
+      "budget_diff": 45994000.0,
+      "date_diff": -805,
+      "source": 33306,
+      "target": 39779
+    },
+    {
+      "avg_vote_diff": 1.2000000000000002,
+      "votes_diff": 829575.0,
+      "duration_diff": 5.0,
+      "budget_diff": 37000000.0,
+      "date_diff": -658,
+      "source": 36475,
+      "target": 39779
+    },
+    {
+      "avg_vote_diff": 0.9999999999999991,
+      "votes_diff": 1008771.0,
+      "duration_diff": 22.0,
+      "budget_diff": 104000000.0,
+      "date_diff": -952,
+      "source": 39779,
+      "target": 43935
+    },
+    {
+      "avg_vote_diff": 1.2999999999999998,
+      "votes_diff": 886419.0,
+      "duration_diff": 12.0,
+      "budget_diff": 6000000.0,
+      "date_diff": -1505,
+      "source": 39779,
+      "target": 48754
+    },
+    {
+      "avg_vote_diff": 0.8000000000000007,
+      "votes_diff": 963540.0,
+      "duration_diff": 12.0,
+      "budget_diff": 35000000.0,
+      "date_diff": -1132,
+      "source": 43935,
+      "target": 48078
+    },
+    {
+      "avg_vote_diff": 0.3000000000000007,
+      "votes_diff": 122352.0,
+      "duration_diff": 10.0,
+      "budget_diff": 110000000.0,
+      "date_diff": -553,
+      "source": 43935,
+      "target": 48754
+    },
+    {
+      "avg_vote_diff": 0.5,
+      "votes_diff": 1085892.0,
+      "duration_diff": 22.0,
+      "budget_diff": 145000000.0,
+      "date_diff": 579,
+      "source": 48078,
+      "target": 48754
+    },
+    {
+      "avg_vote_diff": 0.5999999999999996,
+      "votes_diff": 761033.0,
+      "duration_diff": 12.0,
+      "budget_diff": 65000000.0,
+      "date_diff": -1498,
+      "source": 48078,
+      "target": 57234
+    },
+    {
+      "avg_vote_diff": 0.1999999999999993,
+      "votes_diff": 238799.0,
+      "duration_diff": 4.0,
+      "budget_diff": 25000000.0,
+      "date_diff": -793,
+      "source": 48078,
+      "target": 57475
+    },
+    {
+      "avg_vote_diff": 0.3000000000000007,
+      "votes_diff": 847093.0,
+      "duration_diff": 18.0,
+      "budget_diff": 120000000.0,
+      "date_diff": -1372,
+      "source": 48754,
+      "target": 57475
+    },
+    {
+      "avg_vote_diff": 0.1999999999999993,
+      "votes_diff": 31326.0,
+      "duration_diff": 5.0,
+      "budget_diff": 85000000.0,
+      "date_diff": 799,
+      "source": 50294,
+      "target": 57234
+    },
+    {
+      "avg_vote_diff": 0.20000000000000107,
+      "votes_diff": 553560.0,
+      "duration_diff": 21.0,
+      "budget_diff": 5000000.0,
+      "date_diff": 1504,
+      "source": 50294,
+      "target": 57475
+    },
+    {
+      "avg_vote_diff": 0.6999999999999993,
+      "votes_diff": 917834.0,
+      "duration_diff": 63.0,
+      "budget_diff": 65000000.0,
+      "date_diff": -1029,
+      "source": 50294,
+      "target": 76459
+    },
+    {
+      "avg_vote_diff": 0.40000000000000036,
+      "votes_diff": 522234.0,
+      "duration_diff": 16.0,
+      "budget_diff": 90000000.0,
+      "date_diff": 705,
+      "source": 57234,
+      "target": 57475
+    },
+    {
+      "avg_vote_diff": 0.0,
+      "votes_diff": 470500.0,
+      "duration_diff": 44.0,
+      "budget_diff": 105000000.0,
+      "date_diff": -1091,
+      "source": 76459,
+      "target": 81088
+    }
+  ]
+}

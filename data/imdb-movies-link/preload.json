@@ -1,0 +1,677 @@
+{
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0,0,1000,500\" width=\"1000\" height=\"500\"><g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"797.5006270600743\" y1=\"28.17430427526426\" x2=\"622.9324391266373\" y2=\"56.6751305089939\" idx=\"154\"/><g transform=\"translate(710.2165330933558, 42.42471739212908)rotate(-9.27256903795541)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"153\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"13.461538461538467\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"152\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"151\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"17.77851741853995\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"150\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"149\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"13.203389830508474\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"148\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"147\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"1.5135142857142858\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"146\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"797.5006270600743\" y1=\"28.17430427526426\" x2=\"748.8738951220566\" y2=\"135.29736603043648\" idx=\"145\"/><g transform=\"translate(773.1872610910655, 81.73583515285037)rotate(-65.5851168852864)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"144\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"5.153846153846152\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"143\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"142\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"3.618806219809856\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"141\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"140\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"14.728813559322033\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"139\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"138\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"6.270657142857143\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"137\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"622.9324391266373\" y1=\"56.6751305089939\" x2=\"748.8738951220566\" y2=\"135.29736603043648\" idx=\"136\"/><g transform=\"translate(685.903167124347, 95.98624826971519)rotate(31.97554598141002)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"135\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"17.61538461538462\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"134\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"133\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"14.625019202212094\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"132\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"131\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"1.305084745762712\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"130\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"129\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"5.114285714285714\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"128\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"748.8738951220566\" y1=\"135.29736603043648\" x2=\"634.88200350241\" y2=\"160.5143164140825\" idx=\"127\"/><g transform=\"translate(691.8779493122333, 147.90584122225948)rotate(-12.473914322552133)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"126\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"14.846153846153834\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"125\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"124\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"17.683649956474987\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"123\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"122\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"6.491525423728814\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"121\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"120\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"13.72857142857143\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"119\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"748.8738951220566\" y1=\"135.29736603043648\" x2=\"699.6565283874006\" y2=\"262.55285742621265\" idx=\"118\"/><g transform=\"translate(724.2652117547286, 198.92511172832457)rotate(-68.85551038883376)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"117\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"19\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"116\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"115\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"15.595268574939833\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"114\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"113\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"3.440677966101695\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"112\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"111\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"1.1285714285714286\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"110\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"634.88200350241\" y1=\"160.5143164140825\" x2=\"522.0248556531988\" y2=\"216.54082224854426\" idx=\"109\"/><g transform=\"translate(578.4534295778044, 188.52756933131337)rotate(-26.401519718643222)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"108\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"12.076923076923087\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"107\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"106\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"16.91161861846485\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"105\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"104\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"3.440677966101695\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"103\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"102\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"4.857142857142857\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"101\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"634.88200350241\" y1=\"160.5143164140825\" x2=\"699.6565283874006\" y2=\"262.55285742621265\" idx=\"100\"/><g transform=\"translate(667.2692659449053, 211.53358692014757)rotate(57.592435983531175)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"99\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"5.153846153846164\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"98\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"97\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"2.553689385017154\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"96\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"95\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"2.830508474576271\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"94\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"93\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"14.5\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"92\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"522.0248556531988\" y1=\"216.54082224854426\" x2=\"699.6565283874006\" y2=\"262.55285742621265\" idx=\"91\"/><g transform=\"translate(610.8406920202997, 239.54683983737846)rotate(14.522177243720423)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"90\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"7.923076923076924\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"89\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"88\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"19\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"87\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"86\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"6.491525423728814\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"85\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"84\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"19\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"83\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"522.0248556531988\" y1=\"216.54082224854426\" x2=\"390.64961062391285\" y2=\"282.27874301525617\" idx=\"82\"/><g transform=\"translate(456.3372331385558, 249.4097826319002)rotate(-26.582597473235623)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"81\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"9.307692307692305\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"80\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"79\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"13.455100960964035\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"78\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"77\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"3.440677966101695\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"76\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"75\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"8.714285714285714\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"74\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"522.0248556531988\" y1=\"216.54082224854426\" x2=\"518.9432018083098\" y2=\"359.1965296475362\" idx=\"73\"/><g transform=\"translate(520.4840287307543, 287.8686759480402)rotate(-88.7624869312797)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"72\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"3.76923076923076\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"71\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"70\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"4.541280488845648\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"69\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"68\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"1\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"67\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"66\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"3.571428571428571\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"65\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"699.6565283874006\" y1=\"262.55285742621265\" x2=\"518.9432018083098\" y2=\"359.1965296475362\" idx=\"64\"/><g transform=\"translate(609.2998650978552, 310.8746935368744)rotate(-28.137423903868996)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"63\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"5.153846153846164\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"62\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"61\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"14.924027514636354\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"60\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"59\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"5.271186440677966\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"58\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"57\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"15.785714285714285\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"56\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"345.4899464779546\" y1=\"416.0628082596454\" x2=\"390.64961062391285\" y2=\"282.27874301525617\" idx=\"55\"/><g transform=\"translate(368.06977855093373, 349.1707756374508)rotate(108.6524384734025)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"54\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"3.76923076923076\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"53\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"52\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"1\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"51\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"50\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"1.305084745762712\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"49\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"48\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"11.285714285714285\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"47\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"345.4899464779546\" y1=\"416.0628082596454\" x2=\"518.9432018083098\" y2=\"359.1965296475362\" idx=\"46\"/><g transform=\"translate(432.2165741431322, 387.6296689535908)rotate(161.84838014051553)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"45\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"3.7692307692307843\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"44\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"43\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"9.913820472118388\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"42\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"41\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"6.186440677966102\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"40\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"39\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"1\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"38\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"345.4899464779546\" y1=\"416.0628082596454\" x2=\"185.30035672427516\" y2=\"427.49130203103846\" idx=\"37\"/><g transform=\"translate(265.3951516011149, 421.77705514534193)rotate(-4.080770025925092)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"36\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"10.692307692307685\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"35\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"34\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"16.13147967979245\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"33\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"32\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"19\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"31\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"30\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"8.714285714285714\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"29\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"390.64961062391285\" y1=\"282.27874301525617\" x2=\"518.9432018083098\" y2=\"359.1965296475362\" idx=\"28\"/><g transform=\"translate(454.79640621611134, 320.7376363313962)rotate(30.944585684246483)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"27\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"6.538461538461544\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"26\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"25\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"9.379128475600389\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"24\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"23\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"4.661016949152542\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"22\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"21\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"11.928571428571427\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"20\"/></g><line stroke=\"#999\" stroke-opacity=\"0.6\" stroke-width=\"undefined\" x1=\"185.30035672427516\" y1=\"427.49130203103846\" x2=\"56.01164410842375\" y2=\"385.84830544935244\" idx=\"19\"/><g transform=\"translate(120.65600041634946, 406.66980374019545)rotate(197.85338926593272)\"><rect y=\"-10\" x=\"-45\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#abf483\" idx=\"18\"/><rect y=\"-6.666666666666667\" x=\"-45\" width=\"1\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#1a7903\" idx=\"17\"/><rect y=\"-10\" x=\"-22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#a6d3f6\" idx=\"16\"/><rect y=\"-6.666666666666667\" x=\"-22.5\" width=\"8.496099817365627\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#002cfe\" idx=\"15\"/><rect y=\"-10\" x=\"0\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5f5a5\" idx=\"14\"/><rect y=\"-6.666666666666667\" x=\"0\" width=\"13.203389830508474\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fffc00\" idx=\"13\"/><rect y=\"-10\" x=\"22.5\" width=\"18\" height=\"20\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#f5cfd1\" idx=\"12\"/><rect y=\"-6.666666666666667\" x=\"22.5\" width=\"13.857142857142858\" height=\"13.333333333333334\" stroke-width=\"1\" stroke=\"#000000\" fill=\"#fa000b\" idx=\"11\"/></g></g><g><circle stroke=\"#fff\" stroke-width=\"1.5\" r=\"7.5\" fill=\"#aaa\" cx=\"797.5006270600743\" cy=\"28.17430427526426\" idx=\"10\"><title>Following (vote:7.5)</title></circle><circle stroke=\"#fff\" stroke-width=\"1.5\" r=\"8.4\" fill=\"#aaa\" cx=\"622.9324391266373\" cy=\"56.6751305089939\" idx=\"9\"><title>Memento (vote:8.4)</title></circle><circle stroke=\"#fff\" stroke-width=\"1.5\" r=\"7.2\" fill=\"#aaa\" cx=\"748.8738951220566\" cy=\"135.29736603043648\" idx=\"8\"><title>Insomnia (vote:7.2)</title></circle><circle stroke=\"#fff\" stroke-width=\"1.5\" r=\"8.2\" fill=\"#aaa\" cx=\"634.88200350241\" cy=\"160.5143164140825\" idx=\"7\"><title>Batman Begins (vote:8.2)</title></circle><circle stroke=\"#fff\" stroke-width=\"1.5\" r=\"9\" fill=\"#aaa\" cx=\"522.0248556531988\" cy=\"216.54082224854426\" idx=\"6\"><title>Il cavaliere oscuro (vote:9.0)</title></circle><circle stroke=\"#fff\" stroke-width=\"1.5\" r=\"8.5\" fill=\"#aaa\" cx=\"699.6565283874006\" cy=\"262.55285742621265\" idx=\"5\"><title>The Prestige (vote:8.5)</title></circle><circle stroke=\"#fff\" stroke-width=\"1.5\" r=\"8.6\" fill=\"#aaa\" cx=\"345.4899464779546\" cy=\"416.0628082596454\" idx=\"4\"><title>Interstellar (vote:8.6)</title></circle><circle stroke=\"#fff\" stroke-width=\"1.5\" r=\"8.4\" fill=\"#aaa\" cx=\"390.64961062391285\" cy=\"282.27874301525617\" idx=\"3\"><title>Il cavaliere oscuro - Il ritorno (vote:8.4)</title></circle><circle stroke=\"#fff\" stroke-width=\"1.5\" r=\"8.8\" fill=\"#aaa\" cx=\"518.9432018083098\" cy=\"359.1965296475362\" idx=\"2\"><title>Inception (vote:8.8)</title></circle><circle stroke=\"#fff\" stroke-width=\"1.5\" r=\"7.9\" fill=\"#aaa\" cx=\"185.30035672427516\" cy=\"427.49130203103846\" idx=\"1\"><title>Dunkirk (vote:7.9)</title></circle><circle stroke=\"#fff\" stroke-width=\"1.5\" r=\"7.9\" fill=\"#aaa\" cx=\"56.01164410842375\" cy=\"385.84830544935244\" idx=\"0\"><title>Tenet (vote:7.9)</title></circle></g></svg>",
+    "descriptions": [
+        {
+            "parameters": [
+                { "type": "entity-parameter", "value": "node" },
+                { "type": "value-parameter", "value": 1 }
+            ],
+            "elementsIdx": [10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0],
+            "switch": true,
+            "children": [
+                {
+                    "parameters": [
+                        "first",
+                        {
+                            "type": "element-parameter",
+                            "value": "&lt;circle&gt;"
+                        }
+                    ],
+                    "elementsIdx": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+                    "switch": true,
+                    "children": [
+                        {
+                            "parameters": [
+                                { "type": "channel-parameter", "value": ["r"] },
+                                {
+                                    "type": "attribute-parameter",
+                                    "value": "avg_vote"
+                                }
+                            ],
+                            "elementsIdx": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+                            "switch": false,
+                            "children": [
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "r"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "avg_vote"
+                                        }
+                                    ],
+                                    "elementsIdx": [
+                                        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+                                    ],
+                                    "content": "The greater <span class='description-parameter attribute-parameter'>avg_vote</span>, the greater📈 its <span class='description-parameter channel-parameter'>radius</span>."
+                                }
+                            ],
+                            "content": "Its <span class='description-parameter channel-parameter'>radius</span> encodes the attribute <span class='description-parameter attribute-parameter'>avg_vote</span>."
+                        }
+                    ],
+                    "content": "It is a <span class='description-parameter element-parameter'>&lt;circle&gt;</span>."
+                }
+            ],
+            "content": "Each <span class='description-parameter entity-parameter'>node</span> consists of only <span class='description-parameter value-parameter'>1</span>  element."
+        },
+        {
+            "parameters": [
+                { "type": "entity-parameter", "value": "link" },
+                { "type": "value-parameter", "value": 4 }
+            ],
+            "elementsIdx": [
+                146, 148, 150, 152, 154, 137, 139, 141, 143, 145, 128, 130, 132,
+                134, 136, 119, 121, 123, 125, 127, 110, 112, 114, 116, 118, 101,
+                103, 105, 107, 109, 92, 94, 96, 98, 100, 83, 85, 87, 89, 91, 74,
+                76, 78, 80, 82, 65, 67, 69, 71, 73, 56, 58, 60, 62, 64, 47, 49,
+                51, 53, 55, 38, 40, 42, 44, 46, 29, 31, 33, 35, 37, 20, 22, 24,
+                26, 28, 11, 15, 17, 19, 13
+            ],
+            "switch": true,
+            "children": [
+                {
+                    "parameters": [
+                        "first",
+                        { "type": "element-parameter", "value": "&lt;rect&gt;" }
+                    ],
+                    "elementsIdx": [
+                        11, 20, 29, 38, 47, 56, 65, 74, 83, 92, 101, 110, 119,
+                        128, 137, 146
+                    ],
+                    "switch": true,
+                    "children": [
+                        {
+                            "parameters": [
+                                {
+                                    "type": "channel-parameter",
+                                    "value": ["width"]
+                                },
+                                {
+                                    "type": "attribute-parameter",
+                                    "value": "budget_diff"
+                                }
+                            ],
+                            "elementsIdx": [
+                                11, 20, 29, 38, 47, 56, 65, 74, 83, 92, 101,
+                                110, 119, 128, 137, 146
+                            ],
+                            "switch": false,
+                            "children": [
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "width"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "budget_diff"
+                                        }
+                                    ],
+                                    "elementsIdx": [
+                                        11, 20, 29, 38, 47, 56, 65, 74, 83, 92,
+                                        101, 110, 119, 128, 137, 146
+                                    ],
+                                    "content": "The greater <span class='description-parameter attribute-parameter'>budget_diff</span>, the greater📈 its <span class='description-parameter channel-parameter'>width</span>."
+                                }
+                            ],
+                            "content": "Its <span class='description-parameter channel-parameter'>width</span> encodes the attribute <span class='description-parameter attribute-parameter'>budget_diff</span>."
+                        }
+                    ],
+                    "content": "The <span class='description-parameter '>first</span> element is a <span class='description-parameter element-parameter'>&lt;rect&gt;</span>."
+                },
+                {
+                    "parameters": [
+                        "second",
+                        { "type": "element-parameter", "value": "&lt;rect&gt;" }
+                    ],
+                    "elementsIdx": [
+                        13, 22, 31, 40, 49, 58, 67, 76, 85, 94, 103, 112, 121,
+                        130, 139, 148
+                    ],
+                    "switch": true,
+                    "children": [
+                        {
+                            "parameters": [
+                                {
+                                    "type": "channel-parameter",
+                                    "value": ["width"]
+                                },
+                                {
+                                    "type": "attribute-parameter",
+                                    "value": "duration_diff"
+                                }
+                            ],
+                            "elementsIdx": [
+                                13, 22, 31, 40, 49, 58, 67, 76, 85, 94, 103,
+                                112, 121, 130, 139, 148
+                            ],
+                            "switch": false,
+                            "children": [
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "width"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "duration_diff"
+                                        }
+                                    ],
+                                    "elementsIdx": [
+                                        13, 22, 31, 40, 49, 58, 67, 76, 85, 94,
+                                        103, 112, 121, 130, 139, 148
+                                    ],
+                                    "content": "The greater <span class='description-parameter attribute-parameter'>duration_diff</span>, the greater📈 its <span class='description-parameter channel-parameter'>width</span>."
+                                }
+                            ],
+                            "content": "Its <span class='description-parameter channel-parameter'>width</span> encodes the attribute <span class='description-parameter attribute-parameter'>duration_diff</span>."
+                        }
+                    ],
+                    "content": "The <span class='description-parameter '>second</span> element is a <span class='description-parameter element-parameter'>&lt;rect&gt;</span>."
+                },
+                {
+                    "parameters": [
+                        "third",
+                        { "type": "element-parameter", "value": "&lt;rect&gt;" }
+                    ],
+                    "elementsIdx": [
+                        15, 24, 33, 42, 51, 60, 69, 78, 87, 96, 105, 114, 123,
+                        132, 141, 150
+                    ],
+                    "switch": true,
+                    "children": [
+                        {
+                            "parameters": [
+                                {
+                                    "type": "channel-parameter",
+                                    "value": ["width"]
+                                },
+                                {
+                                    "type": "attribute-parameter",
+                                    "value": "votes_diff"
+                                }
+                            ],
+                            "elementsIdx": [
+                                15, 24, 33, 42, 51, 60, 69, 78, 87, 96, 105,
+                                114, 123, 132, 141, 150
+                            ],
+                            "switch": false,
+                            "children": [
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "width"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "votes_diff"
+                                        }
+                                    ],
+                                    "elementsIdx": [
+                                        15, 24, 33, 42, 51, 60, 69, 78, 87, 96,
+                                        105, 114, 123, 132, 141, 150
+                                    ],
+                                    "content": "The greater <span class='description-parameter attribute-parameter'>votes_diff</span>, the greater📈 its <span class='description-parameter channel-parameter'>width</span>."
+                                }
+                            ],
+                            "content": "Its <span class='description-parameter channel-parameter'>width</span> encodes the attribute <span class='description-parameter attribute-parameter'>votes_diff</span>."
+                        }
+                    ],
+                    "content": "The <span class='description-parameter '>third</span> element is a <span class='description-parameter element-parameter'>&lt;rect&gt;</span>."
+                },
+                {
+                    "parameters": [
+                        "fourth",
+                        { "type": "element-parameter", "value": "&lt;rect&gt;" }
+                    ],
+                    "elementsIdx": [
+                        17, 26, 35, 44, 53, 62, 71, 80, 89, 98, 107, 116, 125,
+                        134, 143, 152
+                    ],
+                    "switch": true,
+                    "children": [
+                        {
+                            "parameters": [
+                                {
+                                    "type": "channel-parameter",
+                                    "value": ["width"]
+                                },
+                                {
+                                    "type": "attribute-parameter",
+                                    "value": "avg_vote_diff"
+                                }
+                            ],
+                            "elementsIdx": [
+                                17, 26, 35, 44, 53, 62, 71, 80, 89, 98, 107,
+                                116, 125, 134, 143, 152
+                            ],
+                            "switch": false,
+                            "children": [
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "width"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "avg_vote_diff"
+                                        }
+                                    ],
+                                    "elementsIdx": [
+                                        17, 26, 35, 44, 53, 62, 71, 80, 89, 98,
+                                        107, 116, 125, 134, 143, 152
+                                    ],
+                                    "content": "The greater <span class='description-parameter attribute-parameter'>avg_vote_diff</span>, the greater📈 its <span class='description-parameter channel-parameter'>width</span>."
+                                }
+                            ],
+                            "content": "Its <span class='description-parameter channel-parameter'>width</span> encodes the attribute <span class='description-parameter attribute-parameter'>avg_vote_diff</span>."
+                        }
+                    ],
+                    "content": "The <span class='description-parameter '>fourth</span> element is a <span class='description-parameter element-parameter'>&lt;rect&gt;</span>."
+                }
+            ],
+            "content": "Each <span class='description-parameter entity-parameter'>link</span> consists of  <span class='description-parameter value-parameter'>4</span> different elements."
+        }
+    ],
+    "layoutDescriptions": [
+        {
+            "parameters": [
+                { "type": "channel-parameter", "value": "x" },
+                {
+                    "type": "attribute-parameter",
+                    "value": ["year", "date_published@year", "budget"]
+                }
+            ],
+            "elementsIdx": [],
+            "children": [
+                {
+                    "parameters": [
+                        { "type": "channel-parameter", "value": "x" },
+                        { "type": "attribute-parameter", "value": "year" }
+                    ],
+                    "elementsIdx": [
+                        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+                        16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+                        30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+                        44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+                        58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+                        72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,
+                        86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99,
+                        100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110,
+                        111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121,
+                        122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132,
+                        133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143,
+                        144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154
+                    ],
+                    "content": "The greater the <span class='description-parameter attribute-parameter'>year</span> is, the smaller📉 the <span class='description-parameter channel-parameter'>x</span>-coordinate is."
+                },
+                {
+                    "parameters": [
+                        { "type": "channel-parameter", "value": "x" },
+                        {
+                            "type": "attribute-parameter",
+                            "value": "date_published@year"
+                        }
+                    ],
+                    "elementsIdx": [
+                        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+                        16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+                        30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+                        44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+                        58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+                        72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,
+                        86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99,
+                        100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110,
+                        111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121,
+                        122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132,
+                        133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143,
+                        144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154
+                    ],
+                    "content": "The greater the <span class='description-parameter attribute-parameter'>date_published[year]</span> is, the smaller📉 the <span class='description-parameter channel-parameter'>x</span>-coordinate is."
+                },
+                {
+                    "parameters": [
+                        { "type": "channel-parameter", "value": "x" },
+                        { "type": "attribute-parameter", "value": "budget" }
+                    ],
+                    "elementsIdx": [
+                        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+                        16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+                        30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+                        44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+                        58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+                        72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,
+                        86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99,
+                        100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110,
+                        111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121,
+                        122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132,
+                        133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143,
+                        144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154
+                    ],
+                    "content": "The greater the <span class='description-parameter attribute-parameter'>budget</span> is, the smaller📉 the <span class='description-parameter channel-parameter'>x</span>-coordinate is."
+                }
+            ],
+            "content": "The <span class='description-parameter channel-parameter'>x</span>-coordinates encodes  attribute <span class='description-parameter attribute-parameter'>year</span>, <span class='description-parameter attribute-parameter'>date_published[year]</span>, and <span class='description-parameter attribute-parameter'>budget</span>"
+        },
+        {
+            "parameters": [
+                { "type": "channel-parameter", "value": "y" },
+                {
+                    "type": "attribute-parameter",
+                    "value": ["year", "date_published@year", "budget"]
+                }
+            ],
+            "elementsIdx": [],
+            "children": [
+                {
+                    "parameters": [
+                        { "type": "channel-parameter", "value": "y" },
+                        { "type": "attribute-parameter", "value": "year" }
+                    ],
+                    "elementsIdx": [
+                        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+                        16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+                        30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+                        44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+                        58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+                        72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,
+                        86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99,
+                        100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110,
+                        111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121,
+                        122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132,
+                        133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143,
+                        144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154
+                    ],
+                    "content": "The greater the <span class='description-parameter attribute-parameter'>year</span> is, the greater📈 the <span class='description-parameter channel-parameter'>y</span>-coordinate is."
+                },
+                {
+                    "parameters": [
+                        { "type": "channel-parameter", "value": "y" },
+                        {
+                            "type": "attribute-parameter",
+                            "value": "date_published@year"
+                        }
+                    ],
+                    "elementsIdx": [
+                        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+                        16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+                        30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+                        44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+                        58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+                        72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,
+                        86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99,
+                        100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110,
+                        111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121,
+                        122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132,
+                        133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143,
+                        144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154
+                    ],
+                    "content": "The greater the <span class='description-parameter attribute-parameter'>date_published[year]</span> is, the greater📈 the <span class='description-parameter channel-parameter'>y</span>-coordinate is."
+                },
+                {
+                    "parameters": [
+                        { "type": "channel-parameter", "value": "y" },
+                        { "type": "attribute-parameter", "value": "budget" }
+                    ],
+                    "elementsIdx": [
+                        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+                        16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+                        30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+                        44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+                        58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+                        72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,
+                        86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99,
+                        100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110,
+                        111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121,
+                        122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132,
+                        133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143,
+                        144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154
+                    ],
+                    "content": "The greater the <span class='description-parameter attribute-parameter'>budget</span> is, the greater📈 the <span class='description-parameter channel-parameter'>y</span>-coordinate is."
+                }
+            ],
+            "content": "The <span class='description-parameter channel-parameter'>y</span>-coordinates encodes  attribute <span class='description-parameter attribute-parameter'>year</span>, <span class='description-parameter attribute-parameter'>date_published[year]</span>, and <span class='description-parameter attribute-parameter'>budget</span>"
+        },
+        {
+            "parameters": [],
+            "elementsIdx": [
+                0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17,
+                18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33,
+                34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
+                50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65,
+                66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81,
+                82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97,
+                98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110,
+                111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123,
+                124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136,
+                137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149,
+                150, 151, 152, 153, 154
+            ],
+            "content": "The layout is a topology-based layout, the farther the geodesic distance (the length of the shortest path) between two nodes, the farther the Euclidean distance between them."
+        }
+    ],
+    "elementInfo": [
+        { "entityType": "node", "entityIndex": 10, "label": 1 },
+        { "entityType": "node", "entityIndex": 9, "label": 1 },
+        { "entityType": "node", "entityIndex": 8, "label": 1 },
+        { "entityType": "node", "entityIndex": 7, "label": 1 },
+        { "entityType": "node", "entityIndex": 6, "label": 1 },
+        { "entityType": "node", "entityIndex": 5, "label": 1 },
+        { "entityType": "node", "entityIndex": 4, "label": 1 },
+        { "entityType": "node", "entityIndex": 3, "label": 1 },
+        { "entityType": "node", "entityIndex": 2, "label": 1 },
+        { "entityType": "node", "entityIndex": 1, "label": 1 },
+        { "entityType": "node", "entityIndex": 0, "label": 1 },
+        { "entityType": "link", "entityIndex": 15, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 15, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 15, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 15, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 15, "label": 5 },
+        { "entityType": "link", "entityIndex": 14, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 14, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 14, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 14, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 14, "label": 5 },
+        { "entityType": "link", "entityIndex": 13, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 13, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 13, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 13, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 13, "label": 5 },
+        { "entityType": "link", "entityIndex": 12, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 12, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 12, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 12, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 12, "label": 5 },
+        { "entityType": "link", "entityIndex": 11, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 11, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 11, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 11, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 11, "label": 5 },
+        { "entityType": "link", "entityIndex": 10, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 10, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 10, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 10, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 10, "label": 5 },
+        { "entityType": "link", "entityIndex": 9, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 9, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 9, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 9, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 9, "label": 5 },
+        { "entityType": "link", "entityIndex": 8, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 8, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 8, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 8, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 8, "label": 5 },
+        { "entityType": "link", "entityIndex": 7, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 7, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 7, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 7, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 7, "label": 5 },
+        { "entityType": "link", "entityIndex": 6, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 6, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 6, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 6, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 6, "label": 5 },
+        { "entityType": "link", "entityIndex": 5, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 5, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 5, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 5, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 5, "label": 5 },
+        { "entityType": "link", "entityIndex": 4, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 4, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 4, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 4, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 4, "label": 5 },
+        { "entityType": "link", "entityIndex": 3, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 3, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 3, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 3, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 3, "label": 5 },
+        { "entityType": "link", "entityIndex": 2, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 2, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 2, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 2, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 2, "label": 5 },
+        { "entityType": "link", "entityIndex": 1, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 1, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 1, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 1, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 1, "label": 5 },
+        { "entityType": "link", "entityIndex": 0, "label": 1 },
+        null,
+        { "entityType": "link", "entityIndex": 0, "label": 2 },
+        null,
+        { "entityType": "link", "entityIndex": 0, "label": 3 },
+        null,
+        { "entityType": "link", "entityIndex": 0, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 0, "label": 5 }
+    ],
+    "label2Encodings": {
+        "node": {
+            "1": {
+                "avg_vote": {
+                    "style": {
+                        "r": {
+                            "typeX": "numerical",
+                            "typeY": "numerical",
+                            "correlation": 1
+                        }
+                    }
+                }
+            }
+        },
+        "link": {
+            "1": {
+                "budget_diff": {
+                    "style": {
+                        "width": {
+                            "typeX": "numerical",
+                            "typeY": "numerical",
+                            "correlation": 0.9999999999999999
+                        }
+                    }
+                }
+            },
+            "2": {
+                "duration_diff": {
+                    "style": {
+                        "width": {
+                            "typeX": "numerical",
+                            "typeY": "numerical",
+                            "correlation": 0.9999999999999999
+                        }
+                    }
+                }
+            },
+            "3": {
+                "votes_diff": {
+                    "style": {
+                        "width": {
+                            "typeX": "numerical",
+                            "typeY": "numerical",
+                            "correlation": 0.9999999999999999
+                        }
+                    }
+                }
+            },
+            "4": {
+                "avg_vote_diff": {
+                    "style": {
+                        "width": {
+                            "typeX": "numerical",
+                            "typeY": "numerical",
+                            "correlation": 0.9999999999999999
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

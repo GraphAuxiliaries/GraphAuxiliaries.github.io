@@ -1,0 +1,1032 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": 7,
+            "name": "Bo Huang",
+            "movies": [
+                "Wo He Wo De Zu Guo",
+                "Bei guang zhua zou de ren",
+                "Jiong ma",
+                "Ji yi da shi",
+                "Feng kuang de wai xing ren",
+                "Yi chu hao xi"
+            ],
+            "avg_vote": 6.148883278306467,
+            "votes": 5149.0,
+            "number_of_movies_by_year": {
+                "2016": 0,
+                "2017": 1,
+                "2018": 1,
+                "2019": 3,
+                "2020": 1
+            }
+        },
+        {
+            "id": 8,
+            "name": "Qianyuan Wang",
+            "movies": [
+                "Wo He Wo De Zu Guo",
+                "Zai shi jie de zhong xin hu huan ai",
+                "Kong tian lie",
+                "Po.Ju",
+                "Ba Bai",
+                "Long xia jing cha"
+            ],
+            "avg_vote": 6.229282482223658,
+            "votes": 3094.0,
+            "number_of_movies_by_year": {
+                "2016": 1,
+                "2017": 2,
+                "2018": 1,
+                "2019": 1,
+                "2020": 1
+            }
+        },
+        {
+            "id": 9,
+            "name": "Hao Ou",
+            "movies": [
+                "Wo He Wo De Zu Guo",
+                "Zhong guo ji zhang",
+                "Lie huo ying xiong",
+                "Wu Kong",
+                "Jian jun da ye",
+                "Ba Bai"
+            ],
+            "avg_vote": 5.897531347962382,
+            "votes": 5104.0,
+            "number_of_movies_by_year": {
+                "2016": 0,
+                "2017": 2,
+                "2018": 0,
+                "2019": 3,
+                "2020": 1
+            }
+        },
+        {
+            "id": 11,
+            "name": "Yi Zhang",
+            "movies": [
+                "Wo He Wo De Zu Guo",
+                "Zai shi jie de zhong xin hu huan ai",
+                "Wo bu shi Pan Jin Lian",
+                "Zhui xiong zhe ye",
+                "Xiu chun dao II: xiu luo zhan chang",
+                "Ba Bai",
+                "Pan deng zhe"
+            ],
+            "avg_vote": 6.52497688751926,
+            "votes": 6490.0,
+            "number_of_movies_by_year": {
+                "2016": 3,
+                "2017": 1,
+                "2018": 0,
+                "2019": 2,
+                "2020": 1
+            }
+        },
+        {
+            "id": 12,
+            "name": "Suxi Ren",
+            "movies": [
+                "Wo He Wo De Zu Guo",
+                "Yin he bu xi ban",
+                "Ban Ge Xi Ju",
+                "L\u7709 de shui",
+                "Absurd Accident",
+                "Wu ming zhi bei"
+            ],
+            "avg_vote": 6.84781070322866,
+            "votes": 4522.0,
+            "number_of_movies_by_year": {
+                "2016": 2,
+                "2017": 0,
+                "2018": 1,
+                "2019": 3,
+                "2020": 0
+            }
+        },
+        {
+            "id": 14,
+            "name": "Dongyu Zhou",
+            "movies": [
+                "Wo He Wo De Zu Guo",
+                "Zai shi jie de zhong xin hu huan ai",
+                "Bing he zhui xiong",
+                "Never Said Goodbye",
+                "Xi huan ni",
+                "Dong wu shi jie",
+                "Hou lai de wo men",
+                "Shao nian de ni"
+            ],
+            "avg_vote": 6.890473197449942,
+            "votes": 11137.0,
+            "number_of_movies_by_year": {
+                "2016": 3,
+                "2017": 1,
+                "2018": 2,
+                "2019": 2,
+                "2020": 0
+            }
+        },
+        {
+            "id": 16,
+            "name": "Jing Wu",
+            "movies": [
+                "Wo He Wo De Zu Guo",
+                "Yin he bu xi ban",
+                "Jiong ma",
+                "Wolf Warrior 2",
+                "The Wandering Earth",
+                "Pan deng zhe"
+            ],
+            "avg_vote": 5.995353727387949,
+            "votes": 34716.0,
+            "number_of_movies_by_year": {
+                "2016": 0,
+                "2017": 1,
+                "2018": 0,
+                "2019": 4,
+                "2020": 1
+            }
+        },
+        {
+            "id": 17,
+            "name": "Jiang Du",
+            "movies": [
+                "Wo He Wo De Zu Guo",
+                "Zhong guo ji zhang",
+                "Lie huo ying xiong",
+                "Luo man di ke xiao wang shi",
+                "Ni hao, Zhihua",
+                "Di Jiu Tian Chang"
+            ],
+            "avg_vote": 6.860840615896796,
+            "votes": 7209.0,
+            "number_of_movies_by_year": {
+                "2016": 1,
+                "2017": 0,
+                "2018": 1,
+                "2019": 4,
+                "2020": 0
+            }
+        },
+        {
+            "id": 22,
+            "name": "Chao Deng",
+            "movies": [
+                "Yin he bu xi ban",
+                "Mei ren yu",
+                "I Belonged to You",
+                "Qing sheng",
+                "Cheng feng po lang",
+                "Xin li zui: Cheng shi zhi guang"
+            ],
+            "avg_vote": 6.170864803625377,
+            "votes": 10592.0,
+            "number_of_movies_by_year": {
+                "2016": 3,
+                "2017": 2,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            }
+        },
+        {
+            "id": 54,
+            "name": "Yu Tian",
+            "movies": [
+                "Liu Yu Tian",
+                "Liang zhi lao hu",
+                "Da ying jia",
+                "Qing sheng",
+                "Xiu xiu de tie quan",
+                "Lai dian kuang xiang",
+                "Fei chi ren sheng"
+            ],
+            "avg_vote": 6.12354586129754,
+            "votes": 3576.0,
+            "number_of_movies_by_year": {
+                "2016": 1,
+                "2017": 1,
+                "2018": 1,
+                "2019": 3,
+                "2020": 1
+            }
+        },
+        {
+            "id": 85,
+            "name": "Zhuo Tan",
+            "movies": [
+                "Lie huo ying xiong",
+                "Bei guang zhua zou de ren",
+                "Wu sha",
+                "Zhui xiong zhe ye",
+                "Bao lie wu sheng",
+                "Wo bu shi yao shen",
+                "Ni hao, Zhihua"
+            ],
+            "avg_vote": 7.303797169811321,
+            "votes": 8480.0,
+            "number_of_movies_by_year": {
+                "2016": 1,
+                "2017": 1,
+                "2018": 2,
+                "2019": 3,
+                "2020": 0
+            }
+        },
+        {
+            "id": 109,
+            "name": "Shan Qiao",
+            "movies": [
+                "Liang zhi lao hu",
+                "Qing sheng",
+                "Wu Kong",
+                "Feng ren ji yue dui",
+                "The Knight of Shadows: Between Yin and Yang",
+                "Lai dian kuang xiang"
+            ],
+            "avg_vote": 5.595288794250732,
+            "votes": 3757.0,
+            "number_of_movies_by_year": {
+                "2016": 1,
+                "2017": 2,
+                "2018": 1,
+                "2019": 2,
+                "2020": 0
+            }
+        },
+        {
+            "id": 111,
+            "name": "Wei Fan",
+            "movies": [
+                "Liang zhi lao hu",
+                "The Bombing - La battaglia di Chongqing",
+                "Wo bu shi Pan Jin Lian",
+                "Bu cheng wen ti de wen ti",
+                "Yi ju ding yi wan ju",
+                "Jue shi gao shou"
+            ],
+            "avg_vote": 4.814838300570704,
+            "votes": 6308.0,
+            "number_of_movies_by_year": {
+                "2016": 3,
+                "2017": 1,
+                "2018": 1,
+                "2019": 1,
+                "2020": 0
+            }
+        },
+        {
+            "id": 122,
+            "name": "Shih-Chieh King",
+            "movies": [
+                "Wo de qing chun dou shi ni",
+                "Reset",
+                "Cheng feng po lang",
+                "Ni hao, feng zi!",
+                "Xiu chun dao II: xiu luo zhan chang",
+                "Da Hu Fa"
+            ],
+            "avg_vote": 6.360871440897325,
+            "votes": 4636.0,
+            "number_of_movies_by_year": {
+                "2016": 1,
+                "2017": 4,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            }
+        },
+        {
+            "id": 212,
+            "name": "Teng Shen",
+            "movies": [
+                "Jiong ma",
+                "Feng kuang de wai xing ren",
+                "Xiu xiu de tie quan",
+                "Li Cha de gu ma",
+                "Long xia jing cha",
+                "Xi hong shi shou fu",
+                "Fei chi ren sheng"
+            ],
+            "avg_vote": 5.952766832276855,
+            "votes": 5837.0,
+            "number_of_movies_by_year": {
+                "2016": 0,
+                "2017": 1,
+                "2018": 3,
+                "2019": 2,
+                "2020": 1
+            }
+        },
+        {
+            "id": 491,
+            "name": "Boran Jing",
+            "movies": [
+                "Time Raiders",
+                "Wei wei yi xiao hen qing cheng",
+                "Le avventure di Wuba",
+                "Hou lai de wo men",
+                "Feng Zhong You Duo Yu Zuo De Yun",
+                "Pan deng zhe"
+            ],
+            "avg_vote": 6.272207563764291,
+            "votes": 6822.0,
+            "number_of_movies_by_year": {
+                "2016": 2,
+                "2017": 0,
+                "2018": 3,
+                "2019": 1,
+                "2020": 0
+            }
+        },
+        {
+            "id": 877,
+            "name": "Lun Ai",
+            "movies": [
+                "Qing sheng",
+                "Jue shi gao shou",
+                "Xiu xiu de tie quan",
+                "Li Cha de gu ma",
+                "Xi hong shi shou fu",
+                "Lai dian kuang xiang"
+            ],
+            "avg_vote": 5.98282772056777,
+            "votes": 3593.0,
+            "number_of_movies_by_year": {
+                "2016": 1,
+                "2017": 2,
+                "2018": 3,
+                "2019": 0,
+                "2020": 0
+            }
+        }
+    ],
+    "links": [
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 7,
+            "target": 8
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 7,
+            "target": 9
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 7,
+            "target": 11
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 7,
+            "target": 12
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 7,
+            "target": 14
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 1
+            },
+            "number_of_common_movies": 2,
+            "source": 7,
+            "target": 16
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 7,
+            "target": 17
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 7,
+            "target": 85
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 1
+            },
+            "number_of_common_movies": 2,
+            "source": 7,
+            "target": 212
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 1
+            },
+            "number_of_common_movies": 2,
+            "source": 8,
+            "target": 9
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 1,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 1
+            },
+            "number_of_common_movies": 3,
+            "source": 8,
+            "target": 11
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 8,
+            "target": 12
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 1,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 2,
+            "source": 8,
+            "target": 14
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 8,
+            "target": 16
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 8,
+            "target": 17
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 1,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 8,
+            "target": 212
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 1
+            },
+            "number_of_common_movies": 2,
+            "source": 9,
+            "target": 11
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 9,
+            "target": 12
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 9,
+            "target": 14
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 9,
+            "target": 16
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 3,
+                "2020": 0
+            },
+            "number_of_common_movies": 3,
+            "source": 9,
+            "target": 17
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 9,
+            "target": 85
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 1,
+                "2018": 0,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 9,
+            "target": 109
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 11,
+            "target": 12
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 1,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 2,
+            "source": 11,
+            "target": 14
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 2,
+                "2020": 0
+            },
+            "number_of_common_movies": 2,
+            "source": 11,
+            "target": 16
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 11,
+            "target": 17
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 1,
+                "2017": 0,
+                "2018": 0,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 11,
+            "target": 85
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 1,
+                "2017": 0,
+                "2018": 0,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 11,
+            "target": 111
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 1,
+                "2018": 0,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 11,
+            "target": 122
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 11,
+            "target": 491
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 12,
+            "target": 14
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 2,
+                "2020": 0
+            },
+            "number_of_common_movies": 2,
+            "source": 12,
+            "target": 16
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 12,
+            "target": 17
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 12,
+            "target": 22
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 14,
+            "target": 16
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 14,
+            "target": 17
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 1,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 14,
+            "target": 491
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 16,
+            "target": 17
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 16,
+            "target": 22
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 0,
+                "2020": 1
+            },
+            "number_of_common_movies": 1,
+            "source": 16,
+            "target": 212
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 16,
+            "target": 491
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 1,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 2,
+            "source": 17,
+            "target": 85
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 1,
+                "2017": 0,
+                "2018": 0,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 22,
+            "target": 54
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 1,
+                "2017": 0,
+                "2018": 0,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 22,
+            "target": 109
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 1,
+                "2018": 0,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 22,
+            "target": 122
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 1,
+                "2017": 0,
+                "2018": 0,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 22,
+            "target": 877
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 1,
+                "2017": 0,
+                "2018": 1,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 3,
+            "source": 54,
+            "target": 109
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 54,
+            "target": 111
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 1,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 2,
+            "source": 54,
+            "target": 212
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 1,
+                "2017": 1,
+                "2018": 1,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 3,
+            "source": 54,
+            "target": 877
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 0,
+                "2018": 0,
+                "2019": 1,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 109,
+            "target": 111
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 1,
+                "2017": 0,
+                "2018": 1,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 2,
+            "source": 109,
+            "target": 877
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 1,
+                "2018": 0,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 1,
+            "source": 111,
+            "target": 877
+        },
+        {
+            "number_of_common_movie_by_year": {
+                "2016": 0,
+                "2017": 1,
+                "2018": 2,
+                "2019": 0,
+                "2020": 0
+            },
+            "number_of_common_movies": 3,
+            "source": 212,
+            "target": 877
+        }
+    ]
+}
